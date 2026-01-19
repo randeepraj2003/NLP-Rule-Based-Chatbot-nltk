@@ -37,21 +37,27 @@ It uses classical NLP techniques to understand user input and generate intellige
 ## ⚙️ Installation
 
 1. Clone the repository:
+```bash
 
  git clone https://github.com/your-username/nlp-rule-based-chatbot-nltk.git
+ 
+---
 
 2.Navigate to the project directory:
-
+```bash
 
 cd nlp-rule-based-chatbot-nltk
 
-3. Navigate to the project directory:
+---
 
+3.Navigate to the project directory:
+```bash
 pip install nltk numpy scikit-learn
 
-5. Download NLTK packages:
+---
 
-   
+4.Download NLTK packages:
+```bash
 import nltk
 nltk.download('punkt')
 nltk.download('wordnet')
