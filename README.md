@@ -57,8 +57,8 @@ pip install nltk numpy scikit-learn
 4.Download NLTK packages:
 
 import nltk
-nltk.download('punkt')
-nltk.download('wordnet')
+- nltk.download('punkt')
+- nltk.download('wordnet')
 
 ---
 
