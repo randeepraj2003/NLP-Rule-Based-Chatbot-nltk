@@ -76,24 +76,24 @@ bye
 
 ##  Learning Outcomes
 
--Understanding NLP preprocessing techniques.
+- Understanding NLP preprocessing techniques
 
--Implementing similarity-based text matching.
+- Implementing similarity-based text matching
 
--Building conversational AI without deep learning.
+- Building conversational AI without deep learning
 
--Hands-on experience with NLTK.
+- Hands-on experience with NLTK
 
 
 ## Future Enhancements
 
--Add GUI or web interface.
+- Add GUI or web interface
 
--Integrate speech-to-text.
+- Integrate speech-to-text
 
--Upgrade to ML/DL-based chatbot.
+- Upgrade to ML/DL-based chatbot
 
--Expand dataset for better responses.
+- Expand dataset for better responses
 
 
 
